@@ -1,0 +1,7 @@
+ffmpeg
+moviepy
+openai-whisper
+langchain
+langgraph
+fastapi
+yt-dlp
